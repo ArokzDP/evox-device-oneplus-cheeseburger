@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/legion_cheeseburger.mk
+    $(LOCAL_DIR)/evolution_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    legion_cheeseburger-user \
-    legion_cheeseburger-userdebug \
-    legion_cheeseburger-eng
+    evolution_cheeseburger-user \
+    evolution_cheeseburger-userdebug \
+    evolution_cheeseburger-eng

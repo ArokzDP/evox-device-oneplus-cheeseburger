@@ -26,10 +26,10 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
-# Inherit some common LegionOS stuff.
-$(call inherit-product, vendor/legion/config/common.mk)
+# Inherit some common EvolutionOS stuff.
+$(call inherit-product, vendor/evolution/config/common.mk)
 
-PRODUCT_NAME := legion_cheeseburger
+PRODUCT_NAME := evolution_cheeseburger
 PRODUCT_DEVICE := cheeseburger
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
